@@ -14,3 +14,4 @@ public class Animal implements Mammal {
       System.out.println("Mammal " + animal.travel() + " with "+animal.noOfLegs()+" legs.");
    }
 }
+//test
