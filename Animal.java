@@ -11,7 +11,6 @@ public class Animal implements Mammal {
    public static void main(String args[]){
       Animal animal = new Animal();
       animal.eat();
-      System.out.println("Mammal " + animal.travel() + " with "+animal.noOfLegs()+" legs.");
    }
 }
 //test
